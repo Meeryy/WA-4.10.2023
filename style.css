@@ -1,0 +1,44 @@
+h1, h2, h3 {
+    color: #dba8a8;
+    font-family: cursive;
+  }
+h4{
+    color:#faea0a;
+    font-family: cursive;
+}
+  p{
+    color:black;
+  }
+  html{
+    background-color: aliceblue;
+  }
+ 
+  h1,h2{
+    text-align: center;
+  }
+
+ .container{
+    color:blueviolet;
+    font-family: cursive;
+    font-size: 10px;
+ }
+ .list{
+    color:rgb(100, 177, 245);
+    font-family: cursive;
+ }
+ .list2{
+    color:#fa0ae6;
+    font-family: cursive;
+ }
+ .list3{
+    color: rgb(58, 212, 11);
+    font-family: cursive;
+ }
+ .h3class{
+    color:aqua;
+    font-family: cursive;
+ }
+.obrazek{
+    size:30px;
+}
+  
